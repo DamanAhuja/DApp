@@ -27,6 +27,8 @@ The final yarn hardhat node step is important to do now, as it is necessary to h
 Once you have Hardhat network running you’ll see output in your terminal similar to:
 ![image](https://github.com/DamanAhuja/DApp/assets/142963733/23543ccd-1d51-4df5-b3a3-e48f74ae1a6e)
 
+Just Save the private key of account 0, we will need that in future.
+
 Now we have a directory named hardhat-ethers-react-ts-starter
 
 Enter command 
