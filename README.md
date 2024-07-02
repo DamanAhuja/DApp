@@ -6,8 +6,8 @@
 ## Main aim
 ![image](https://github.com/DamanAhuja/DApp/assets/142963733/70520772-a64c-4974-8bb1-6b69b3d94952)
 ## Tools Used
-HardHat
-MetaMask
+- HardHat
+- MetaMask
 ## Getting Started
 ```
 # install yarn
